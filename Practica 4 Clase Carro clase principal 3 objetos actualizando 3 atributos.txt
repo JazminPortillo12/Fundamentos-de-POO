@@ -1,10 +1,10 @@
 /**
  * UPTx - Fundamentos de Programación Orientada a Objetos
- * Evidencia No. 1     Grupo: 5H
+ * Practica No. 4     Grupo: 5H
  * Tema: Clase Carro
  * Integrantes: Eder López Villarreal, Jazmin Portillo Michicol, Karen Leticia García Vásquez, Eric Jhonathan Anaya Márquez
- * Objetivo:Realizar una aplicación donde se realice los registros de un coche
- *          para establecer su mantenimiento, consumo de gas y km recorrido.
+ * Objetivo: Realizar una aplicación donde se realice los registros de un coche
+ *           para establecer su mantenimiento, consumo de gas y km recorrido.
  * Modificación: 13/ene/2024
  */
 
